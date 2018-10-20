@@ -1,5 +1,5 @@
 '''
-A binary search Tree
+A binary search Tree.
 '''
 from __future__ import print_function
 
